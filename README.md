@@ -11,6 +11,8 @@ B494E26228A0547AA54C - Blogs
 
 D5036AFB177566430360 - MyVolts
 
+The three codes corresponding to the the three files are provided in the link.
+
 The python files connecting documents contains the code for concatinating the outputs from the three files while separating the database contains the code of separating the database into 3 training and 3 testing files 
 
 
