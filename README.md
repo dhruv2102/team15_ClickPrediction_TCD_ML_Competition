@@ -10,3 +10,12 @@ B494E26228A0547AA54C - Blogs
 D5036AFB177566430360 - MyVolts
 
 THe python files connecting documents contains the code for concatinating the outputs from the three files while separating the database contains the code of separating the database into 3 training and 3 testing files 
+
+
+There are 4 output files
+
+1. Output_JabRef_descisiontree - This file is produced from the JabRef code
+2. Output_MyVolts - This file is produced form MyVolts code
+3. Output_blog - This file is produced from Blogs code
+4. sub4_forst_1 - This file is produced from combining all files. Also note that the first set_clicked value (recommendatin_set_id = 46914)
+ has been changed to 1 as there was a bug on kaggle because of which the public score was coming out as 0.
